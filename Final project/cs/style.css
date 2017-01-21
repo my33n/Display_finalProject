@@ -1,0 +1,70 @@
+body{
+	margin 0;
+	padding: 0;
+}
+img {
+	max-width: 100%;
+	display: block;
+}
+#top-section{
+
+
+
+
+
+
+}
+.container{
+
+    width: 100;
+
+
+
+}
+
+.left,.right{
+
+}
+.logo span{
+
+}
+.social{
+
+}
+.social li{
+	
+
+}
+.social li img{
+
+}
+.social>li>img{
+
+}
+.border{
+	border-bottom: 1px; solid rgba(153,153,153,0.42);
+	padding: 1em;
+	float: left;
+}
+.content{
+
+}
+nav li a: hover{
+	color: seagreen;
+}
+#main-section{
+	background-image: url(../images/bacground.png);
+	margin-bottom: 10em;
+}
+.mobile{
+	transform: translateY(9em);
+
+
+}
+.mobile img{
+	margin: 0 auto
+
+}
+.content{
+
+}
